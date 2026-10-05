@@ -1,4 +1,8 @@
 # CampusQ — Smart University Queue Management System
+**Live Demo:** http://campusq-joy.kesug.com
+
+**GitHub Repository:** https://github.com/JOYSARKER763/WAD
+
 Stack: PHP (PDO) + MySQL + Bootstrap 5.
 ## Run locally
 1. XAMPP চালু করে Apache + MySQL start করো।
